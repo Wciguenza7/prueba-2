@@ -1,0 +1,141 @@
+
+
+
+#sec-qled{
+	background-image:url(../img/QLED-tv.png);
+	background-repeat: no-repeat;
+	background-position:left;
+	background-size:contain;
+	color: #fff;
+	text-align: center;
+	padding: 150px 0;	
+}
+
+.titulo{
+	color: #000000;
+	font-size: 50px;
+	font-weight:400;
+	
+}
+
+.subtitulo{
+	color: #000000;
+	font-size: 30px;
+}
+
+.sec-1{
+	text-align:right;
+	padding: 30px;
+	justify-content: center;
+	
+	
+}
+
+.btn-naranja{
+	background-color: #FFFFFF;
+	color: #000000;
+	border-radius: 10px;
+	border:rgba(0,0,0,1.00);
+	padding: 15px 30px;
+	font-weight: 600;
+	margin-top: 40px;
+	font-size: 14px;
+	border-color: rgba(0,0,0,1.00);
+	border-style: solid;
+	
+	
+	
+	
+}
+.btn-naranja:hover{
+	background-color:#252525;
+	color: #fff;
+	
+}
+
+
+#sec-cooling{
+	background-image:url(../img/Twin-cooling.png);
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size:contain;
+	color: #fff;
+	text-align: center;
+	padding: 150px 0;
+	background-color: #F3F3F3;
+	
+}
+
+.sec-2{
+	text-align:left;
+	padding: 30px;
+	justify-content: center;
+	
+	
+}
+
+#sec-galaxy{
+	background-image:url(../img/smart_switch_pc.png);
+	background-repeat: no-repeat;
+	background-position:left;
+	background-size:auto;
+	color: #fff;
+	text-align: center;
+	padding: 60px 0;
+	background-color:#FFFFFF;
+	
+}
+
+.sec-3{
+	text-align:right;
+	padding: 30px;
+	justify-content:flex-start;
+	
+}
+
+#sec-frame{
+	background-image:url(../img/the_framev2.jpg);
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size:contain;
+	color: #fff;
+	text-align: center;
+	padding: 100px 0;
+	background-color:#F3F3F3;
+	
+}
+
+.sec-4{
+	text-align:left;
+	padding: 30px;
+	justify-content:flex-start;
+	
+}
+
+#sec-gear{
+	background-image:url(../img/Gear-Fit2-Pro.png);
+	background-repeat: no-repeat;
+	background-position:left;
+	background-size:contain;
+	color: #fff;
+	text-align: center;
+	padding: 100px 0;
+	background-color:#FFFFFF;
+	
+}
+
+
+.sec-5{
+	text-align:right;
+	padding: 30px;
+	justify-content:flex-start;
+	
+}
+
+footer{
+	background-color: #F3F3F3;
+	text-align: center;
+	padding: 30px;
+	
+	
+}
